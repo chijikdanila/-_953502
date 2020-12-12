@@ -1,0 +1,18 @@
+{
+  "pathes": {
+    "ClientDirectory": "C:\\Directory\\sourceDirectory",
+    "TargetDirectory": "C:\\Directory\\targetDirectory",
+    "ArchFolder": "Archive"
+  },
+  "archivizeOptions": {
+    "Cryptextension": ".crypt"
+  },
+  "cryptOptions": {
+    "key": 123,
+    "Extension": ".txt",
+    "Cryptext": ".crypt"
+  },
+  "copyOptions": {
+    "w": "S"
+  }
+}
